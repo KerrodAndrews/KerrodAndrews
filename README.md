@@ -7,7 +7,7 @@ Hi this is **my** README for Stats220.
 - To pass this class
 - To get practice using Github
 
-My facourite numbers are:
+My favourite numbers are:
 1. 3
 2. 2
 3. 6
